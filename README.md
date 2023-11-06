@@ -1,4 +1,4 @@
-![Bannière Junior Saint Fleur](URL_de_votre_image_de_bannière)
+![Bannière Junior Saint Fleur](https://refayiti.com/wp-content/uploads/2023/11/Grow-Your-Business-With-Me-3.png)
 # Junior Saint Fleur
 
 ## Développeur WordPress, Web & Data Analytics
@@ -6,14 +6,14 @@
 ---
 
 ### 👋 Introduction
-Bienvenue sur mon profil GitHub! Je suis Junior Saint Fleur, licencié en informatique avec un Master en Marketing et Data Analytics. Fort de 3 ans d'expérience en CDI en tant que technicien informatique, je suis maintenant un freelance spécialisé dans le développement WordPress, le Web Analytics et le Data Analytics.
+Bienvenue sur mon profil GitHub! Je suis Junior Saint Fleur, Master 2 en Marketing et Data Analytics. Fort de 3 ans d'expérience en CDI en tant que technicien informatique, je suis maintenant un freelance spécialisé dans le développement WordPress, le Web Analytics et le Data Analytics.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniorsaintfleur&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsf05941&show_icons=true)
 
 ### 🛠️ Expérience Professionnelle
 
 #### Refayiti Inc. | Président & Chef de Projet Digital
-![Refayiti](lien_vers_image_refayiti)
+![Refayiti](https://refayiti.com/wp-content/uploads/2023/11/refay.png)
 - Conception et maintenance du site [Refayiti](https://refayiti.com)
 - Installation de tags avec Google Analytics pour l'analyse de trafic
 - Gestion des campagnes d'emailling via Brevo et Mailchimp
@@ -22,7 +22,7 @@ Bienvenue sur mon profil GitHub! Je suis Junior Saint Fleur, licencié en inform
 - Préparation de fichiers CSV pour importation de produits avec Python/Pandas
 
 #### IPPDR.org | Développeur Web et Analyste Marketing
-![IPPDR](lien_vers_image_ippdr)
+![IPPDR](https://refayiti.com/wp-content/uploads/2023/11/ippdr.org_.png)
 - Développement et maintenance du site [IPPDR](https://ippdr.org)
 - Création de contenus éducatifs en utilisant des IA comme Synthesia et ChatGPT
 - Mise en place de stratégies marketing digitales
@@ -39,8 +39,8 @@ Bienvenue sur mon profil GitHub! Je suis Junior Saint Fleur, licencié en inform
 - **Conception Graphique & Vidéo**: Canva, Synthesia, Pictory, D-ID
 
 ### 📫 Contactez-Moi
-- **LinkedIn**: [junior-saintfleur](Votre-URL-LinkedIn)
-- **Email**: [junior@example.com](mailto:junior@example.com)
+- **LinkedIn**: [junior-saintfleur](https://www.linkedin.com/in/junior-sf/)
+- **Email**: [jsaintfleur@refayiti.com](mailto:jsaintfleur@refayiti.com)
 
 ---
 
