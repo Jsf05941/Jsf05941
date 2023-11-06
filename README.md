@@ -1,4 +1,6 @@
-![Bannière Junior Saint Fleur](https://refayiti.com/wp-content/uploads/2023/11/Grow-Your-Business-With-Me-5.png)
+<p align="center">
+  <img src="https://refayiti.com/wp-content/uploads/2023/11/Grow-Your-Business-With-Me-5.png" alt="Bannière Junior Saint Fleur">
+</p>
 # Junior Saint Fleur
 
 ## Développeur WordPress, Web & Data Analytics
